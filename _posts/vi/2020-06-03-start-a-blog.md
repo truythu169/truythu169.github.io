@@ -4,8 +4,6 @@ title:  "Start a blog"
 categories: tech
 ---
 
-# Start a blog
-
 ## Tại sao bạn muốn viết blog
 đang viết...
 
